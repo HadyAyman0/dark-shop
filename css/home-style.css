@@ -89,8 +89,9 @@ body
   top: 103%;
   right: 0%;
     transition:top 1s;
+    display: none;
    
-}
+} 
 .card:hover .card-cap 
 {
     top:-39px;
