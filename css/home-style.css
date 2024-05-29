@@ -1,0 +1,97 @@
+body
+{
+    background-color: #161616;
+}
+
+
+
+.home
+{
+    background-image: url(../imgs/background.jpg);
+    background-position:center ;
+    background-size: cover;
+    height: 105vh;
+    overflow: hidden;
+    
+
+
+
+}
+.logo
+{
+    width: 13rem;
+    
+}
+.img
+{
+    width: 10rem;
+}
+.navbar
+{
+    background-image: url(../imgs/background2.jpg);
+}
+.img-one
+{
+    background-image: url(../imgs/mohammad-metri-325178-600x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    
+}
+.img-two
+{
+    background-image: url(../imgs/square-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    
+}
+
+
+.card
+{
+   background-color: #999999;
+}
+.forth-page
+{
+    background-color: #1D1D1D;
+}
+.pg
+{
+    color: #606060;
+   
+}
+.six-page
+{
+   
+    background: linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , url(../imgs/full-2.jpg);
+    background-attachment: fixed;
+}
+
+.footer
+{
+    background-image: url(../imgs/contact-details-map.png);
+    background-repeat: no-repeat;
+    
+}
+.foooter
+{
+    background-color: #151515;
+}
+
+.icon
+{
+    
+    margin-left: 40%;
+    margin-top: 20%;
+    
+}
+.card-cap
+{
+  top: 103%;
+  right: 0%;
+    transition:top 1s;
+   
+}
+.card:hover .card-cap 
+{
+    top:-39px;
+}
